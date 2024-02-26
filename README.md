@@ -1,3 +1,8 @@
+
+![test](https://github.com/Ijjoe/README_example_Source/assets/66405494/ec469ccf-696a-42bf-8706-6408ecf26839)
+
+
+
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
 ---
@@ -35,7 +40,7 @@ for i in range(0,5):
     둘(탭, 스페이스바로 이부분 회색 될 때까지 들여쓰기)
 
 셋
-
+![test](https://github.com/Ijjoe/README_example_Source/assets/66405494/1c99e160-feaa-4ffe-bb39-1a38c3b11182)
 
 
 # 링크걸기
